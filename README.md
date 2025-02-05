@@ -39,11 +39,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/anshabrol/Human-Activity-Recognition.git
+    git clone https://github.com/anshabrol/Human-Activity-Recognition-Dimensionality-Reduction-Using-Clustering.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Human-Activity-Recognition
+    cd Human-Activity-Recognition-Dimensionality-Reduction-Using-Clustering
     ```
 3. Open the Jupyter notebook:
     ```bash
